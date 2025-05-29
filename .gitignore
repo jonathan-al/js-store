@@ -1,3 +1,8 @@
+# Node modules
+container/node_modules
+products/node_modules
+cart/node_modules
+
 # Logs
 logs
 *.log
@@ -128,3 +133,21 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
